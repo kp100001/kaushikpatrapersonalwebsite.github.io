@@ -1,0 +1,37 @@
+body {
+  background: #000;
+  font-family: Helvetica, sans-serif;
+  font-size: 1em;
+  line-height: 1.5em;
+  margin: 20px;
+  color: #fff;
+}
+
+h1, h2, h3, h4, h5, p, a, #footer p, .entry strong {
+  color: #fff;
+}
+
+a:link, a:visited {
+  color: #ccc;
+}
+
+a:hover {
+  color: #aaa;
+}
+
+.entry a:hover {
+  background: #222;
+  border-color: #888;
+}
+
+#footer {
+  background: #000;
+}
+
+#footer a {
+  color: #999;
+}
+
+#footer a:hover {
+  color: #fff;
+}
